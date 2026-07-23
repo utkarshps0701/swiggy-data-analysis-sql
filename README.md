@@ -92,6 +92,12 @@ Measures stored in the fact table include:
 The fact table is connected to the dimension tables through primary and
 foreign keys.
 
+### Star Schema Diagram
+
+The following diagram represents the dimensional model used for the analysis:
+
+![Swiggy Star Schema](images/star_schema.png)
+
 ---
 
 ## ETL Process
