@@ -1,4 +1,4 @@
-# Swiggy SQL Data Analysis
+# Swiggy Data Analysis using SQL
 
 ## Project Overview
 
