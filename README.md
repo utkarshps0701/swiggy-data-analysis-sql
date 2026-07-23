@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project analyzes a Swiggy food-ordering dataset using MySQL to explore ordering patterns, revenue trends, restaurant performance, geographic performance, cuisine preferences, pricing patterns, and customer ratings.
+This project analyzes a Swiggy food-ordering dataset using MySQL to explore 
+ordering patterns, revenue trends, restaurant performance, geographic 
+performance, cuisine preferences, pricing patterns, and customer ratings.
 The project follows an end-to-end SQL analytics workflow, including data
 loading, data validation, data cleaning, dimensional modeling, ETL,
 KPI calculation, and business analysis.
@@ -192,11 +194,3 @@ This project demonstrates the use of:
     |
     |-- images/
         |-- star_schema.png
-
----
-
-## Author
-
-**Utkarsh Pratap**
-
-MBA - Business Analytics
