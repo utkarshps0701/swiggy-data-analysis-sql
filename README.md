@@ -2,12 +2,9 @@
 
 ## Project Overview
 
-This project analyzes a Swiggy food-ordering dataset using MySQL to explore 
-ordering patterns, revenue trends, restaurant performance, geographic 
-performance, cuisine preferences, pricing patterns, and customer ratings.
-The project follows an end-to-end SQL analytics workflow, including data
-loading, data validation, data cleaning, dimensional modeling, ETL,
-KPI calculation, and business analysis.
+This project analyzes a Swiggy food-ordering dataset using MySQL to uncover ordering patterns, revenue trends, restaurant performance, geographic performance, cuisine preferences, pricing patterns, and customer ratings.
+
+The project follows an end-to-end SQL analytics workflow covering data loading, validation, cleaning, dimensional modeling, ETL, KPI calculation, business analysis, and the development of actionable business recommendations.
 
 ---
 
@@ -190,7 +187,7 @@ The analysis covers the following areas:
 
 ## Business Recommendations
 
-- **Strengthen high-performing geographic markets:** Bengaluru and Karnataka represent the strongest geographic market in the dataset. Maintaining restaurant availability, service quality, and targeted promotions in this market could help protect existing demand.
+- **Strengthen high-performing geographic markets:** Bengaluru leads city-level order volume, while Karnataka contributes the highest share of state-level revenue. Maintaining restaurant availability, service quality, and targeted promotions in these markets could help protect existing demand.
 
 - **Develop city-specific restaurant strategies:** Restaurant rankings vary across cities, suggesting that promotions and restaurant partnerships should be tailored to local demand rather than using a uniform nationwide strategy.
 
@@ -230,17 +227,19 @@ This project demonstrates the use of:
 
 ## Repository Structure
 
-    swiggy-data-analysis-sql/
-    |
-    |-- README.md
-    |
-    |-- dataset/
-    |   |-- Swiggy_Data.csv
-    |
-    |-- sql/
-    |   |-- 01_data_loading_cleaning.sql
-    |   |-- 02_star_schema.sql
-    |   |-- 03_business_analysis.sql
-    |
-    |-- images/
-        |-- star_schema.png
+swiggy-data-analysis-sql/
+|
+|-- README.md
+|
+|-- dataset/
+|   |-- README.md
+|   |-- Swiggy_Data.csv
+|
+|-- images/
+|   |-- README.md
+|   |-- star_schema.png
+|
+|-- sql/
+    |-- 01_data_loading_cleaning.sql
+    |-- 02_star_schema.sql
+    |-- 03_business_analysis.sql
