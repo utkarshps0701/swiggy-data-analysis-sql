@@ -230,7 +230,7 @@ This project demonstrates the use of:
 
 ## Repository Structure
 
-    swiggy-sql-data-analysis/
+    swiggy-data-analysis-sql/
     |
     |-- README.md
     |
