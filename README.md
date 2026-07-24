@@ -227,19 +227,21 @@ This project demonstrates the use of:
 
 ## Repository Structure
 
+```text
 swiggy-data-analysis-sql/
-|
-|-- README.md
-|
-|-- dataset/
-|   |-- README.md
-|   |-- Swiggy_Data.csv
-|
-|-- images/
-|   |-- README.md
-|   |-- star_schema.png
-|
-|-- sql/
-    |-- 01_data_loading_cleaning.sql
-    |-- 02_star_schema.sql
-    |-- 03_business_analysis.sql
+│
+├── README.md
+│
+├── dataset/
+│   ├── README.md
+│   └── Swiggy_Data.csv
+│
+├── images/
+│   ├── README.md
+│   └── star_schema.png
+│
+└── sql/
+    ├── 01_data_loading_cleaning.sql
+    ├── 02_star_schema.sql
+    └── 03_business_analysis.sql
+```
