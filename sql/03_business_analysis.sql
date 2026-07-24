@@ -205,7 +205,7 @@ GROUP BY d.dish_name
 ORDER BY COUNT(*) DESC
 LIMIT 10;
 
--- Cuisine performance (orders + average rating)
+-- Category performance (orders + average rating)
 SELECT 
    c.category,
    COUNT(*) AS order_count,
