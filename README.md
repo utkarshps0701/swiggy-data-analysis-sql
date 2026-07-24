@@ -151,10 +151,10 @@ The analysis covers the following areas:
 - Top 10 restaurants by revenue
 - Top 3 restaurants in each city
 
-### Product & Cuisine Analysis
+### Product & Category Analysis
 - Top categories by order volume
 - Most ordered dishes
-- Cuisine performance based on order volume and average rating
+- Category performance based on order volume and average rating
 
 ### Pricing & Rating Analysis
 - Order distribution across price ranges
