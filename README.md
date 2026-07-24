@@ -162,6 +162,50 @@ The analysis covers the following areas:
 
 ---
 
+## Key Findings
+
+- The dataset contains **197,403 orders**, generating approximately **₹53.00 million in revenue**, with an average order value of **₹268.50** and an average rating of **4.34/5**.
+
+- Monthly order volume remained relatively stable from January to August 2025. **January recorded the highest order volume with 25,393 orders**, while February recorded the lowest with 23,292 orders.
+
+- Revenue showed moderate month-to-month fluctuations. The largest decline occurred in **February (-8.15%)**, followed by the strongest recovery in **March (+4.86%)**.
+
+- Orders were distributed fairly evenly throughout the week, with **Saturday recording the highest order volume (28,933)** and Tuesday the lowest (27,413).
+
+- **Bengaluru was the leading city by order volume with 20,072 orders**, substantially ahead of other major cities in the dataset.
+
+- **Karnataka was the largest state-level revenue contributor**, accounting for **10.29% of total revenue**.
+
+- **KFC was the highest revenue-generating restaurant**, generating approximately **₹4.25 million**, followed by McDonald's at approximately ₹3.34 million.
+
+- Restaurant performance varied across cities, indicating that restaurant demand and competitive position differ by geographic market.
+
+- **Choco Lava Cake was the most frequently ordered individual dish**, followed by Veg Fried Rice and Paneer Butter Masala.
+
+- Orders were concentrated in the **₹100–₹299 price range**, which accounted for approximately **56% of total orders**.
+
+- Ratings were strongly concentrated at the higher end, with approximately **88% of records having ratings of 4.0 or above**.
+
+---
+
+## Business Recommendations
+
+- **Strengthen high-performing geographic markets:** Bengaluru and Karnataka represent the strongest geographic market in the dataset. Maintaining restaurant availability, service quality, and targeted promotions in this market could help protect existing demand.
+
+- **Develop city-specific restaurant strategies:** Restaurant rankings vary across cities, suggesting that promotions and restaurant partnerships should be tailored to local demand rather than using a uniform nationwide strategy.
+
+- **Focus promotions around key price segments:** Since approximately 56% of orders fall between ₹100 and ₹299, offers, bundles, and recommendations within this range could align well with observed ordering patterns.
+
+- **Leverage high-performing restaurant partnerships:** Major brands such as KFC and McDonald's generate substantial revenue and could be considered for targeted campaigns, bundled offers, and customer acquisition initiatives.
+
+- **Investigate monthly revenue declines:** February and June experienced negative month-over-month revenue growth. Further analysis of restaurant availability, pricing, promotions, and seasonal factors could help identify the drivers behind these declines.
+
+- **Use high-rated categories and products for recommendations:** Strong ratings across the dataset provide an opportunity to highlight highly rated offerings through recommendation and discovery features while continuing to monitor lower-rated segments.
+
+- **Replicate successful market strategies selectively:** The strong performance of Bengaluru provides an opportunity to investigate which restaurant mix, pricing patterns, and product categories contribute to its performance and assess whether those practices can be adapted to other high-potential cities.
+
+---
+
 ## SQL Concepts Demonstrated
 
 This project demonstrates the use of:
